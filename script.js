@@ -38,8 +38,8 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 });
 // Typing effect
 const texts = [
-   "UI/UX Designer | Frontend Developer",
   "Java Full Stack Developer",
+  "UI/UX Designer | Frontend Developer"
   "I build clean & scalable web apps",
   "Fresher with strong fundamentals"
 ];
